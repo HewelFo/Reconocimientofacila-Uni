@@ -2,11 +2,11 @@
 Utilizando tensorflow y keras con openCV para la lectura de imagenes se utlizo un modelo ya entrenado. Como personaje para identificar se utlizara al actor Nicolas Cage con variaciones.
 
 #### Rostro a buscar
-![imagen1](/conosidas/conosido3.jpeg "imagen usada 3")
+![imagen1](/conocidas/conosido3.jpeg "imagen usada 3")
 una con lentes
-![imagen2](/conosidas/conosido4.jpeg "imagen usada 4")
+![imagen2](/conocidas/conosido4.jpeg "imagen usada 4")
 una excentrica
-![imagen3](/conosidas/conosido5.jpeg "imagen usada 5")
+![imagen3](/conocidas/conosido5.jpeg "imagen usada 5")
 
 #### Rostros desconocidos a comparar
 Una de las distintas realizar la busqueda
